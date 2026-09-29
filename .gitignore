@@ -1,0 +1,14 @@
+# Raw datasets (keep repository lightweight)
+*.csv
+!model_comparison_table.csv
+
+# R workspace files & temporary caches
+.Rhistory
+.RData
+.RDataTmp
+.Rproj.user/
+
+# Operating system files
+Thumbs.db
+Desktop.ini
+.DS_Store
